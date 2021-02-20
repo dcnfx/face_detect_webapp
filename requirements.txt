@@ -1,0 +1,10 @@
+Flask
+gevent
+gunicorn
+h5py
+numpy
+Pillow
+opencv-python
+tensorflow==1.15.2
+requests
+Werkzeug
